@@ -9,7 +9,7 @@
 yarn add command-prompt
 ```
 
-##API Examples
+## API Examples
 ```javascript
 const prompt = require('command-prompt')
 prompt('hello guys').then(anwser=>{
